@@ -5,7 +5,12 @@ Olá, sou a Ray!
 - 🚀 Estuadando Inglês 
 
 <div>
+
+</div>
+
+<div>
   <a href="https://github.com/brunaversiani">
+  ![](https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg)
   <img height="170em" src="https://github-readme-stats.vercel.app/api/?username=brunaversiani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaversiani&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
