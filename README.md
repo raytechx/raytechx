@@ -6,10 +6,10 @@ Olá, sou a Ray!
 - 🚀 Estuadando Inglês 
 <div/>
 
-<div align="center">
- <img height="220em" src=https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
- <img height="180em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/3-stats.svg">
- <img height="180em" src=" >
+<div>
+ <img height="200em" src=https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
+ <img height="200em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/3-stats.svg">
+ <img height="200em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/1-repos-per-language.svg">
 </div>
   
 <div style="display: inline_block"><br>
