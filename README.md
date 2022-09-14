@@ -7,10 +7,9 @@ Olá, sou a Ray!
 <div/>
 
 <div align="center">
-  <img height="220em" src=https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
-  <a href="https://github.com/brunaversiani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=brunaversiani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaversiani&layout=compact&langs_count=7&theme=highcontrast"/>
+ <img height="220em" src=https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
+ <img height="180em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/3-stats.svg">
+ <img height="180em" src=" >
 </div>
   
 <div style="display: inline_block"><br>
