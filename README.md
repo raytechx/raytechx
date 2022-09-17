@@ -7,9 +7,9 @@ Olá, sou a Ray!
 <div/>
 
 <div>
- <img height="200em" src=https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/0-profile-details.svg>
- <img height="200em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/3-stats.svg">
- <img height="200em" src="https://raw.githubusercontent.com/BrunaVersiani/brunaversiani/main/profile-summary-card-output/2077/1-repos-per-language.svg">
+ <img height="200em" src=https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/0-profile-details.svg>
+ <img height="200em" src="https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/3-stats.svg">
+ <img height="200em" src="https://raw.githubusercontent.com/raytechx/raytechx/main/profile-summary-card-output/2077/1-repos-per-language.svg">
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@ Olá, sou a Ray!
 <div>
    <a href="https://www.linkedin.com/in/bruna-versiani-54147a181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/brunaversiani/brunaversiani/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/raytechx/raytechx/blob/output/github-contribution-grid-snake.svg)
  
 </div>
